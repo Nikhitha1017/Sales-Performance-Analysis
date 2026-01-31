@@ -32,7 +32,6 @@ Top-performing regions/products
 **Tools & Technologies**
 - Python
 - Pandas
-- NumPy
 - Matplotlib
 - Seaborn
 
