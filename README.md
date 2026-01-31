@@ -24,17 +24,17 @@ Correlation heatmap
 Top-performing regions/products
 
 **Visualizations**
-Bar charts
-Line charts
-scatter plot
-Heatmaps
+- Bar charts
+- Line charts
+- Scatter plot
+- Heatmaps
 
 **Tools & Technologies**
-Python
-Pandas
-NumPy
-Matplotlib
-Seaborn
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
 
 **Key Insights**
 - Certain regions contribute maximum revenue
