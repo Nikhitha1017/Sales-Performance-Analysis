@@ -35,4 +35,9 @@ Pandas
 NumPy
 Matplotlib
 Seaborn
+
+**Key Insights**
+- Certain regions contribute maximum revenue
+- Seasonal patterns in monthly sales
+- Some product categories outperform others
 Jupyter Notebook
